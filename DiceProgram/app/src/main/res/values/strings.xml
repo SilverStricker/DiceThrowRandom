@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceProgram</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string name="button">Button</string>
+</resources>
